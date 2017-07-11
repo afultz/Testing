@@ -9,3 +9,6 @@ Added line 8 (via RStudio).
 Added line 9 (via GitHub). 
 Added line 10 (via RStudio).
 Added line 11 (via RStudio).
+Added line 12 (via GitHub). 
+Added line 13 (via GitHub). 
+Added line 14 (via GitHub). 
